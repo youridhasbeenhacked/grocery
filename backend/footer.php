@@ -1,0 +1,1 @@
+<footer><p>Copyright &copy; 2019 - present | Hamro Doko | Nepal </p></footer>
